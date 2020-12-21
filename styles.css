@@ -1,0 +1,18 @@
+@font-face {
+  font-family: LoresNB;
+  src: url('./fonts/LR-Bold-Narrow.woff');
+}
+
+@font-face {
+  font-family: LoresNR;
+  src: url('./fonts/LR-Narrow.woff');
+}
+
+@font-face {
+  font-family: LoresWR;
+  src: url('./fonts//LR-Wide.woff');
+}
+
+.bg {
+  background-color: #1d1d1d;
+}
